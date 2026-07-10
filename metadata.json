@@ -1,0 +1,8 @@
+{
+  "name": "Remix: OS Scheduler Lab",
+  "description": "An interactive Operating System Process Scheduling Simulator and educational portal for engineering students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
